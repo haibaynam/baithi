@@ -1,0 +1,839 @@
+[
+    {
+        "content": "Điều nào dưới đây KHÔNG PHẢI là rào cản của tư duy sáng tạo?",
+        "comment": "Không sợ thất bại"
+    },
+    {
+        "content": "Lợi ích của làm việc nhóm là",
+        "comment": "Tất cả đều đúng"
+    },
+    {
+        "content": "Quy trình sáng tạo thường bắt đầu từ việc:",
+        "comment": "Tìm kiếm ý tưởng trong thực tế"
+    },
+    {
+        "content": "Những lợi ích của sáng tạo đối với cá nhân bao gồm",
+        "comment": "Các đáp án đều đúng"
+    },
+    {
+        "content": "Đối với Doanh nghiệp, sự sáng tạo có những lợi ích:",
+        "comment": "Các đáp án đều đúng"
+    },
+    {
+        "content": "Chỉ có phát triển nhanh, vượt trội, bền vững, VNPT mới có thể chiến thắng trong cạnh tranh và hội nhập. Theo anh chị, Yếu tố &quot;Bền vững&quot; được hiểu là:",
+        "comment": "Đạo lý bền vững - Hạ tầng bền vững - Lợi nhuận bền vững"
+    },
+    {
+        "content": "Chỉ có phát triển nhanh, vượt trội, bền vững, VNPT mới có thể chiến thắng trong cạnh tranh và hội nhập.Yếu tố &quot;Nhanh&quot; được hiểu là:",
+        "comment": "Bàn nhanh - Quyết nhanh - Làm nhanh"
+    },
+    {
+        "content": "Văn hóa giới thiệu và tự giới thiệu trong Văn hóa giao tiếp công sở và lễ nghi ngoại giao của VNPT, bao gồm những nội dung sau:",
+        "comment": "Giới thiệu người có địa vị cao hoặc người lớn tuổi trước, giới thiệu tên kèm theo chức vụ; Tự giới thiệu ngắn gọn tên, đơn vị làm việc, thái độ lịch sự, khiêm nhường."
+    },
+    {
+        "content": "Các lĩnh vực chính cụ thể của &quot;Chiến lược phát triển Tập đoàn BCVTVN cho giai đoạn 2017 - 2025, tầm nhìn 2030&quot; là gì?",
+        "comment": "IoT; mạng lưới tin cậy; đám mây; phân tích dữ liệu; an ninh mạng và trí tuệ nhân tạo"
+    },
+    {
+        "content": "Theo Sổ tay Văn hóa VNPT, Trách nhiệm của VNPT đối với khách hàng là &quot;Luôn làm hài lòng&quot; được hiểu như thế nào?",
+        "comment": "VNPT coi khách hàng là trung tâm và là mục tiêu trong chiến lược phát triển. Mọi thành viên của VNPT luôn chú ý phải chân thành, nhã nhặn, chú ý lời chào, lời cảm ơn. Lắng nghe nhu cầu, giải thích cặn kẽ, rõ ràng. Tôn trọng lời hứa, đúng thời gian, không sách nhiễu hoặc gây phiền hà cho khách hàng."
+    },
+    {
+        "content": "Theo Văn bản số 3030/VNPT-NL ngày 01/7/2019, Tỷ lệ lao động Thừa hành phục vụ đối với các Viễn thông tỉnh/ thành phố có từ 150 lao động trở lên không quá…",
+        "comment": "4%"
+    },
+    {
+        "content": "Theo CV số 2173/VNPT-TCNL, Nhiệm vụ nào sau đây KHÔNG PHẢI của Chuyên viên Đầu tư – Vị trí Đầu tư mua sắm",
+        "comment": "Thực hiện thanh toán dự án đầu tư xây dựng cơ bản."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Người sử dụng lao động được giữ sổ bảo hiểm xã hội của người lao động sau khi chấm dứt hợp đồng lao động với người lao động bao lâu?",
+        "comment": "Hoàn trả khi chấm dứt HĐLĐ"
+    },
+    {
+        "content": "Nghị định số 145/2020/NĐ-CP ngày 14/12/2020, Ông Hoàng Văn A sinh ngày 25/5/1961 sẽ nghỉ hưu vào 01/9/2021. Ông A có 17 năm đóng bảo hiểm xã hội khi chấm dứt hợp đồng lao động, người sử dụng lao động có phải chi trả trợ cấp thôi việc cho ông A không?",
+        "comment": "Có"
+    },
+    {
+        "content": "<p>Theo Bộ luật Lao động năm 2019, Chị B làm việc tại Công ty X theo hợp đồng với thời hạn 12 tháng. Theo thỏa thuận trong hợp đồng lao động, công ty sẽ trả lương cho chị B vào ngày 10 dương lịch hàng tháng. Tuy nhiên tiền lương hàng tháng của công ty luôn trả trễ hơn so với quy định trong hợp đồng. Chị B đã làm việc được 3 tháng. Chị quyết định nộp đơn xin nghỉ việc và không làm việc tại công ty ngay sau khi nộp đơn. Việc chị B chấm dứt hợp đồng như vậy có đúng pháp luật không?</p>",
+        "comment": "Đúng"
+    },
+    {
+        "content": "NVKT nên đưa ấn phẩm, tài liệu, hợp đồng,  brochure cho khách hàng như thế nào để thể hiện sự tôn trọng?",
+        "comment": "Đưa ấn phẩm, tài liệu,  hợp đồng, brochure,…bằng hai tay và phải đưa cùng chiều với khách hàng."
+    },
+    {
+        "content": "NVKT khi thi công tại địa chỉ khách hàng nên thực hiện  thế nào để thể hiện sự chuyên nghiệp?",
+        "comment": "Phục vụ khách hàng với thao tác nhanh, chính xác; Hạn chế nói chuyện riêng, hạn chế giải quyết việc khác hoặc mượn thiết bị của khách hàng; Dọn dẹp sạch sẽ tại vị trí thi công; Xin lỗi khách hàng nếu trong quá trình thi công đã làm phiền khách hàng."
+    },
+    {
+        "content": "Theo anh/chị thì khách hàng ngày nay có xu hướng thế nào?",
+        "comment": "Tất cả đều đúng"
+    },
+    {
+        "content": "<p>Theo anh/chị, NVKT có nên chăm sóc khách hàng đang sử dụng dịch vụ của nhà mạng khác không?</p>",
+        "comment": "Rất cần thiết vì có thể đây sẽ là khách hàng tiềm năng của VNPT hoặc khách hàng này có thể sẽ giới thiệu cho khách hàng khác sử dụng dịch vụ - sản phẩm của VNPT"
+    },
+    {
+        "content": "Khi chăm sóc khách hàng, nếu gặp trường hợp khách hàng trước đây đã từng dùng mạng của VNPT phản ánh &quot;Mạng bị chậm, hay bị quay,..&quot;, vì vậy khách hàng đã chuyển sang dùng của nhà mạng khác, NVKT nên xử lý:",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+    {
+        "content": "Một trong những kỹ thuật sử dụng phổ biến khi sử dụng phương pháp tập kích não trong học tập là quan sát kỹ những thứ nhìn thấy, quan sát từ cách nhìn của người khác, nhìn sự vật, sự việc theo một hướng khác. Đúng hay sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Nội dung nào dưới đây phản ánh đúng về phương pháp học tập &quot;lấy học viên làm trung tâm&quot;?",
+        "comment": "Học viên tham gia và tự khám phá nội dung"
+    },
+    {
+        "content": "Tâm lý ổn định việc làm là một lý do cản trở sự thay đổi",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Trong phương pháp lập kế hoạch 5W-1H-2C-5M, để việc xác định nội dung công việc (What) được thực hiện hiệu quả, chúng ta cần:",
+        "comment": "Nắm được nội dung công việc đó là gì?\nChỉ ra các bước cụ thể để thực hiện công việc.\nBước sau là khách hàng của bước công việc trước"
+    },
+    {
+        "content": "Trong quá trình sử dụng phương pháp tập kích não (brainstorming) để thúc đẩy quá trình học tập, người học cần phải",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+    {
+        "content": "Triết lý của VNPT là gì?",
+        "comment": "Khách hàng là trung tâm; Chất lượng là linh hồn; Hiệu quả là thước đo"
+    },
+    {
+        "content": "Với chiến lược phát triển trong kỷ nguyên mới, phù hợp với xu thế toàn cầu hóa và sự phát triển không ngừng của cuộc cách mạng công nghiệp 4.0, VNPT đã và đang từng bước chuyển đổi từ nhà cung cấp dịch vụ viễn thông truyền thống sang nhà cung cấp dịch vụ số (DSP), trở thành một Tập đoàn kinh tế năng động, chú trọng phát triển những sản phẩm, dịch vụ, giải pháp ICT sáng tạo. Các sứ mệnh của VNPT là:",
+        "comment": "Cung cấp cho khách hàng và đối tác các sản phẩm, dịch vụ Viễn thông - CNTT - Truyền thông và Dịch vụ số chất lượng, đột phá, sáng tạo; Trở thành trung tâm số (Digital Hub) của khu vực châu Á; Tôn vinh và đánh giá giá trị đích thực của người lao động; Tiên phong trong các hoạt động về cộng đồng."
+    },
+    {
+        "content": "Trong Chuẩn mực VNPT, chuẩn mực về &quot;Văn hóa ứng xử&quot; trong đơn vị đó là:",
+        "comment": "Với đồng nghiệp: Hợp tác – Cởi mở\nVới cấp dưới: Lắng nghe – Chân thành\nVới cấp trên: Thẳng thắn – Chấp hành\nVới bản thân: Vượt qua chính mình"
+    },
+    {
+        "content": "Theo anh chị, Câu Khẩu hiệu (Slogan) của VNPT là gì?",
+        "comment": "VNPT - Cuộc sống đích thực"
+    },
+    {
+        "content": "Anh/chị cho biết VNPT lựa chọn yếu tố nào để tạo nên &quot;Đạo đức&quot; trong văn hoá VNPT:",
+        "comment": "Tín với Nhà nước, Tín với Cộng đồng, Tín với Khách hàng, Tín với Người lao động"
+    },
+    {
+        "content": "Theo Quyết định số 1665/QĐ-VNPT-KTPCCTT , Tổ chức  làm việc theo ca là:",
+        "comment": "Bố trí ít nhất 02 người hoặc 02 nhóm người thay phiên nhau làm việc trên cùng một vị trí làm việc, tính trong thời gian 01 ngày."
+    },
+    {
+        "content": "<p>Theo Nghị định 135/2020/NĐ-CP, Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá bao nhiêu tuổi so với tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường tại thời điểm nghỉ hưu? (trừ trường hợp pháp luật có quy định khác)</p>",
+        "comment": "05 tuổi"
+    },
+    {
+        "content": "Quyết định số 1665/QĐ-VNPT-KTPCCTT, Ý nào sau đây quy định giá trị pháp lý của Nội quy lao động Tập đoàn VNPT:",
+        "comment": "Là cơ sở pháp lý để người sử dụng lao động xử lý kỷ luật lao động khi người lao động có hành vi vi phạm các quy định trong Nội quy lao động."
+    },
+    {
+        "content": "Theo Bộ luật Lao động 2019, Quyền của người sử dụng lao động là?",
+        "comment": "Thành lập, gia nhập, hoạt động trong tổ chức đại diện người lao động, tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật."
+    },
+    {
+        "content": "Theo Quy chế quản trị nhân sự quản lý ban hành hành kèm theo quyết định số 202/QĐ-VNPT-HĐTH-NL ngày 06/11/2028 của Tập đoàn VNPT, Thôi giữ chức là:",
+        "comment": "Là việc cấp có thẩm quyền quyết định cho nhân sự quản lý chấm dứt đảm nhiệm chức vụ để nhận nhiệm vụ khác hoặc nghỉ chế độ theo quy định của pháp luật hiện hành."
+    },
+    {
+        "content": "Khi giới thiệu và tự giới thiệu NVKT nên:",
+        "comment": "Tự giới thiệu ngắn gọn tên, đơn vị làm việc với thái độ lịch sự,  khiêm nhường. Giới thiệu người có địa vị cao hoặc người lớn tuổi trước và giới thiệu tên kèm theo chức vụ."
+    },
+    {
+        "content": "Trong kinh doanh, khi khách hàng không hài lòng thì phương án tốt nhất doanh nghiệp mong muốn là:",
+        "comment": "Khách hàng nói trực tiếp với chúng ta."
+    },
+    {
+        "content": "<p>Khi trình bày cho khách hàng về dịch vụ của VNPT, NVKT không nên:</p>",
+        "comment": "Nói không có chủ đích"
+    },
+    {
+        "content": "Chăm sóc khách hàng mang lại cho doanh nghiệp lợi ích gì ?",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+    {
+        "content": "Khi giao tiếp với khách hàng, NVKT nên tránh:",
+        "comment": "Nói với tốc độ và ngữ điệu đều đều"
+    },
+        {
+        "content": "Hình thức học tập phổ biến hiện nay là:",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+
+    {
+        "content": "Bảng tổng kết để đánh giá công việc nên có những nội dung nào?",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+
+    {
+        "content": "Năng lực học tập ứng dụng được định nghĩa là:",
+        "comment": "Việc kịp thời xử lý và ứng dụng những thông tin mới liên quan đến công việc"
+    },
+    {
+        "content": "Một môi trường làm việc cởi mở, chân thành sẽ mang lại lợi ích nào sau đây?",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+    {
+        "content": "Tập đoàn VNPT đang bước vào giai đoạn tăng tốc trong chuyển đổi số. Theo Anh/Chị, để việc này thành công thì mỗi Người VNPT cần phải làm gì ?",
+        "comment": "Để thành công và giữ vị trí chủ đạo trong công cuộc chuyển đổi số quốc gia, điều này đòi hỏi mỗi người VNPT phải tự chuyển đổi chính bản thân mình"
+    },
+    {
+        "content": "&quot;Tín với Nhà nước; Tín với cộng đồng; Tín với khách hàng; Tín với người lao động&quot; là yếu tố thuộc về ..., đây là một trong các yếu tố tạo nên Tinh thần VNPT trong VNPT - 5 Giá trị cốt lõi.",
+        "comment": "Đạo đức"
+    },
+
+    {
+        "content": "Theo anh chị, khi VNPT thực hiện chuyển đổi số, chiến lược về văn hóa nào sau đây sẽ hỗ trợ tốt nhất cho chiến lược dài hạn của VNPT?",
+        "comment": "Áp dụng những thông lệ tốt nhất của một doanh nghiệp số, bảo tồn những thông lệ của doanh nghiệp truyền thống vẫn có giá trị cho sự phát triển bền vững của doanh nghiệp số"
+    },
+    {
+        "content": "Theo Bộ luật Lao động 2019, đâu là đối tượng không chịu sự điều chỉnh trực tiếp bởi các quy định của Bộ Luật lao động 2019.",
+        "comment": "  Người Việt Nam làm việc tại nước ngoài."
+    },
+    {
+        "content": "Theo Quy chế quản trị nhân sự quản lý ban hành hành kèm theo quyết định số 202/QĐ-VNPT-HĐTH-NL ngày 06/11/2028 của Tập đoàn VNPT, Luân chuyển nhân sự quản lý là:",
+        "comment": "Việc cấp có thẩm quyền quyết định cử hoặc bổ nhiệm nhân sự quản lý đến giữ một chức vụ quản lý khác trong một thời hạn nhất định để đào tạo, bồi dưỡng năng lực theo yêu cầu của chức danh và để đánh giá năng lực lãnh đạo, làm cơ sở xem xét bổ nhiệm lên chức vụ quản lý cao hơn."
+    },
+    {
+        "content": "Theo Văn bản số  6820/VNPT-TCNL-TL, Lao động nào sau đây KHÔNG thuộc nhóm lao động trực tiếp sản xuất ?",
+        "comment": "Chuyên viên phòng Kỹ thuật - đầu tư."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2009, Các trường hợp nào sau đây người lao động được quyền đơn phương chấm dứt hợp đồng không cần báo trước?",
+        "comment": "Tất cả đáp án đều đúng."
+    },
+    {
+        "content": "Theo Nghị định số 135/2020/NĐ-CP, Thời điểm nghỉ hưu là kết thúc ngày cuối cùng của tháng đủ tuổi nghỉ hưu theo quy định. Đúng hay sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Trước khi đến lắp đặt dịch vụ cho khách hàng, NVKT nên:",
+        "comment": "Gọi điện đặt lịch hẹn để xác nhận thời gian cụ thể với khách hàng"
+    },
+
+    {
+        "content": "<p>Sau khi thực hiện lắp đặt/sửa chữa dịch vụ tại nhà khách hàng, NVKT KHÔNG nên:</p>",
+        "comment": "Nhờ khách hàng dọn giúp vệ sinh khu vực đã thi công"
+    },
+    {
+        "content": "NVKT đến tối ưu mạng WIFI cho khách hàng hiện hữu nhằm mục đích",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+    {
+        "content": "Khi đến nhà Khách hàng để lắp đặt dịch vụ, NVKT nên sử dụng mẫu câu nào để giới thiệu bản thân:",
+        "comment": "\"Chào anh/chị, em/tôi là... NVKT của VNPT... Theo hẹn, hôm nay em/tôi đến lắp đặt dịch vụ …cho gia đình mình ạ!\"."
+    },
+    
+    {
+        "content": "Nguyên tắc giao việc:",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+    {
+        "content": "Để lập kế hoạch tuần, chúng ta sẽ sử dụng nguồn thông tin nào dưới đây?",
+        "comment": "Các công việc trong kế hoạch tháng"
+    },
+    {
+        "content": "Phương pháp 6 chiếc mũ tư duy hướng mọi người cùng tập trung vào vấn đề từ cùng một góc nhìn, nhằm:",
+        "comment": "Triệt tiêu hoàn toàn các tranh cãi xuất phát từ các góc nhìn khác nhau."
+    },
+    {
+        "content": "Các chương trình học tập thiết kế cho người lớn cần tuân thủ nguyên tắc nào trong số các nội dung sau?",
+        "comment": "Sử dụng kinh nghiệm của học viên trong các ví dụ và hoạt động học tập"
+    },
+    {
+        "content": "Hành động tìm hiểu về thay đổi có nghĩa là",
+        "comment": "Các đáp án đều đúng"
+    },
+    {
+        "content": "Theo anh/chị thì đâu là cơ hội (Opportunities) của VNPT?",
+        "comment": "Tăng trưởng mạnh mẽ của thị trường CNTT cùng với nhận thức cao về IT trên toàn quốc; tăng trưởng mạnh mẽ của thị trường di động với nhu cầu thay đổi từ thoại sang dữ liệu và tỷ lệ sử dụng điện thoại thông minh cao; Chính phủ thúc đẩy lĩnh vực ICT phát triển"
+    },
+    {
+        "content": "Theo sổ tay văn hóa VNPT quy định &quot;Trách nhiệm của VNPT&quot; bao gồm:",
+        "comment": "Với nhà nước: Thực thi pháp luật\nVới khách hàng: Luôn làm hài lòng\nVới đối tác: Hợp tác cùng phát triển\nVới cộng đồng xã hội: Cùng chung vai góp sức\nVới người lao động: Tôn trọng và bảo vệ\nVới môi trường: Vì một hành tinh xanh"
+    },
+    {
+        "content": "Trong Chuẩn mực VNPT, chuẩn mực về &quot;Văn hóa ứng xử&quot; trong đơn vị đó là:",
+        "comment": "Với đồng nghiệp: Hợp tác – Cởi mở\nVới cấp dưới: Lắng nghe – Chân thành\nVới cấp trên: Thẳng thắn – Chấp hành\nVới bản thân: Vượt qua chính mình"
+    },
+
+    {
+        "content": "Các hình thức xử lý kỷ luật lao động nào được quy định trong Nội quy Lao động Tập đoàn:",
+        "comment": "Khiển trách, kéo dài thời hạn nâng lương không quá 6 tháng, cách chức, sa thải."
+    },
+    {
+        "content": "Theo Bộ luật Lao động 2019, Người lao động làm việc theo hợp đồng lao động không xác định thời hạn, khi đơn phương chấm dứt hợp đồng lao động thì phải báo trước cho người sử dụng lao động bao nhiêu ngày?",
+        "comment": "  Ít nhất 45 ngày."
+    },
+    {
+        "content": "<p>Theo Quyết định số 613/QĐ-VNPT-NL, Thời hạn tự kiểm tra an toàn, vệ sinh lao động thực hiện theo quy định nào?</p>",
+        "comment": "- 6 tháng /1 lần ở cấp đơn vị;<br />\n- 3 tháng/ lần ở cấp cơ sở trực thuộc đơn vị;<br />\n- 1 tháng /1 lần ở cấp phân xưởng, tổ, đội sản xuất."
+    },
+    {
+        "content": "Theo Quy chế quản trị nhân sự quản lý ban hành hành kèm theo quyết định số 202/QĐ-VNPT-HĐTH-NL ngày 06/11/2028 của Tập đoàn VNPT, Miễn nhiệm là:",
+        "comment": "Là việc cấp có thẩm quyền quyết định để nhân sự quản lý không được đảm nhiệm chức vụ quản lý khi chưa hết thời hạn bổ nhiệm do vi phạm kỷ luật, năng lực yếu kém, không hoàn thành nhiệm vụ, mất uy tín"
+    },
+    {
+        "content": "Theo QĐ 140/QĐ-VNPT-HĐTV-NL ngày 24/10/2019 của Tập Đoàn, quy định về khung danh mục chức danh tại các Viễn thông tỉnh/thành phố (không bao gồm Hà Nội, TP Hồ Chí Minh) thì Chức danh nào sau đây không thuộc Lao động chuyên môn nghiệp vụ?",
+        "comment": "Nhân viên giải pháp CNTT."
+    },
+
+    {
+        "content": "Để việc giao tiếp/ giao dịch với khách hàng đạt hiệu quả, NVKT nên:",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+
+    {
+        "content": "Trong quá trình phục vụ, nếu khách hàng không hài lòng với dịch vụ hoặc thái độ của nhân viên, NVKT nên ứng xử thế nào?",
+        "comment": "Chân thành xin lỗi khách hàng cho dù nhân viên có lỗi hay không; chủ động lắng nghe, thể hiện đồng cảm với khách hàng và có hướng giải thích rõ ràng, nhẹ nhàng để khách hàng hiểu cũng như thông cảm"
+    },
+    {
+        "content": "Một trong những nguyên tắc để lập kế hoạch là:",
+        "comment": "Có tính linh hoạt phù hợp với sự thay đổi của môi trường"
+    },
+
+    {
+        "content": "Ưu điểm của phương pháp triển khai MBO từ cấp công ty xuống cấp bộ phận:",
+        "comment": "Nhanh về mặt thời gian"
+    },
+
+    {
+        "content": "Thương lượng và thỏa thuận là một trong những phương pháp để giảm thiểu sự chống đối trong quá trình thay đổi, Phương pháp này được áp dụng trong hoàn cảnh nào?",
+        "comment": "Khi các cá nhân hoặc\nnhóm có quyền lực\nchống đối vì những quyền\nlợi riêng của họ bị đe dọa\ndo thay đổi"
+    },
+    {
+        "content": "Trước đây, VNPT thực hiện văn hóa học tập chủ yếu theo cách cử nhân sự tham gia các khóa đào tạo. Trong thời gian gần đây, Tập đoàn dần dần chuyển dịch sang văn hóa Học hỏi &amp; Chia sẻ - nghĩa là khuyến khích sự chủ động học tập và chia sẻ kiến thức từ mọi cấp bậc. Theo anh chị, VNPT có những công cụ, hoạt động nào sau đây giúp khuyến khích sự chủ động học tập và chia sẻ kiến thức trong Tập đoàn:",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+    {
+        "content": "Chuẩn mực cá nhân của người VNPT bao gồm Ý thức, Thái độ và Ứng xử. Anh/chị cho biết thái độ nào sau đây thể hiện đúng nhất chuẩn mực cá nhân của VNPT khi tham gia hội họp?",
+        "comment": "Nghiêm túc - đúng giờ. Đến trước ít nhất 5 phút, không bỏ họp về sớm; phát biểu, thảo luận nghiêm túc, đúng chủ đề; để điện thoại ở chế độ rung, hạn chế nghe điện thoại trong khi họp."
+    },
+    {
+        "content": "Trong Chuẩn mực VNPT, chuẩn mực về &quot;Văn hóa ứng xử&quot; của cấp trên với cấp dưới là:",
+        "comment": "Lắng nghe, chân thành"
+    },
+    {
+        "content": "Theo anh/chị thì đâu là điểm yếu (Weaknesses) của VNPT?",
+        "comment": "Thiếu sự khác biệt rõ ràng cả về thương hiệu và sản phẩm; quy trình nội bộ kéo dài; thiếu công cụ mạnh tiếp cận thị trường; thiếu lực lượng lao động CNTT có tay nghề cao; thương hiệu VNPT không được biết đến bên ngoài thị trường Việt Nam"
+    },
+    {
+        "content": "Theo Sổ tay Văn hóa VNPT, Trách nhiệm của VNPT với cộng đồng xã hội là &quot;Chung Vai góp sức&quot; được hiểu như thế nào?",
+        "comment": "VNPT luôn thể hiện trách nhiệm với cộng đồng, xã hội; chủ động, tích cực tham gia các chương trình an sinh xã hội, chung tay, chung sức cùng cộng đồng vượt qua khó khăn, góp phần giải quyết các vấn đề của xã hội."
+    },
+    {
+        "content": "Theo Nghị định 135/2020/NĐ-CP, Kể từ 01/1/2021 tuổi nghỉ hưu của lao động nữ trong điều kiện lao động bình thường là bao nhiêu tuổi?",
+        "comment": "55 tuổi 4 tháng, sau đó cứ mỗi năm tăng thêm 04 tháng cho đến khi đủ 60 tuổi vào năm 2035."
+    },
+    {
+        "content": "Theo quy định của Tập đoàn tại Quyết định số 24/QĐ-VNPT-NL ngày 13/1/20216, đánh giá người lao động không hoàn thành công việc hàng tháng khi:",
+        "comment": "Tất cả đáp án đều đúng."
+    },
+    {
+        "content": "Chọn đáp án đúng được quy định trong Bộ luật Lao động năm 2019:",
+        "comment": "Người lao động được tự do lựa chọn việc làm, làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm."
+    },
+    {
+        "content": "Thông tư  04/2014/TT-BLĐTBXH quy định nguyên tắc cấp phát Phương tiện bảo vệ cá nhân cho người lao động là:",
+        "comment": "Nghiêm cấm người sử dụng lao động phát tiền hoặc giao tiền cho người lao động tự đi mua."
+    },
+
+    {
+        "content": "<p>Khi lắp đặt, xử lý sự cố dịch vụ cho khách hàng xong, nội dung nào NVKT không nên khuyến nghị khách hàng:</p>",
+        "comment": "Chủ động mua và lắp thêm repeater nếu muốn mở rộng thêm vùng phủ sóng"
+    },
+    {
+        "content": "Theo anh/chị, mục đích quan trọng nhất khi một doanh nghiệp yêu cầu nhân viên tiếp xúc với khách hàng phải đeo thẻ nhân viên và mặc đồng phục là gì ?",
+        "comment": "Thể hiện tính chuyên nghiệp và thái độ tôn trọng trong phục vụ khách hàng"
+    },
+        {
+        "content": "Một trong những cách thức để xây dựng hình ảnh tốt của bản thân là:",
+        "comment": "Kiểm soát lời nói và hành động của bản thân"
+    },
+    {
+        "content": "Để đảm bảo công việc tại các vị trí, bộ phận, các phòng ban chức năng không bị chồng chéo nhau thì doanh nghiệp cần có:",
+        "comment": "Bản mô tả công việc"
+    },
+    {
+        "content": "Để kiểm soát sự thay đổi hiệu quả, chúng ta cần:",
+        "comment": "Thực hiện kiểm soát liên tục cả bên trong và bên ngoài.\nTheo dõi tiến độ, đo lường kết quả đạt được và chú trọng thông tin phản hồi"
+    },
+    {
+        "content": "Phương pháp Thử và sai được ứng dụng khi",
+        "comment": "Đối diện với vấn đề mới phát sinh."
+    },
+    {
+        "content": "Trong phương pháp lập kế hoạch 5W-1H-2C-5M, để việc xác định nội dung công việc (What) được thực hiện hiệu quả, chúng ta cần:",
+        "comment": "Nắm được nội dung công việc đó là gì?\nChỉ ra các bước cụ thể để thực hiện công việc.\nBước sau là khách hàng của bước công việc trước"
+    },
+    {
+        "content": "Nội dung nào nằm trong 5 cam kết phục vụ khách hàng của VNPT?",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+
+    {
+        "content": "Tập đoàn VNPT khởi động xây dựng Chiến lược VNPT 4.0 với mục tiêu thế nào?",
+        "comment": "Thực hiện chuyển đổi mạnh mẽ nhà cung cấp các sản phẩm dịch vụ số hiện đại, thực hiện số hóa toàn bộ để vai trò của Tập đoàn được khẳng định trong nền kinh tế số."
+    },
+ 
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Thời gian được loại trừ khi tính trợ cấp thôi việc là:",
+        "comment": "Cả 2 đáp án đều đúng."
+    },
+
+    {
+        "content": "Theo Bộ luật Lao động 2019, Quyền của người lao động là?",
+        "comment": "Làm việc, tự do lựa chọn việc làm, nơi làm việc, nghề nghiệp, học nghề, nâng cao trình độ nghề nghiệp, không bị phân biệt đối xử cưỡng bức, quấy rối tình dục tại nơi làm việc."
+    },
+    {
+        "content": "Theo quy định của Tập đoàn tại Văn bản số 3071/VNPT-NL-TL ngày 02/7/2019 thì chức danh nào sau đây là Lao động CNTT cấp độ 1?",
+        "comment": "Giám đốc Trung tâm CNTT."
+    },
+
+    {
+        "content": "Sau khi lắp đặt thiết bị MODEM WIFI xong, NVKT cần lưu ý với khách hàng điều gì?",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+        {
+        "content": "Hành động học nhanh, hiểu nhanh được định nghĩa là",
+        "comment": "Sẵn sàng tiếp thu và hiểu những thông tin mới từ những trải nghiệm học tập chính thức và phi chính thức"
+    },
+
+    {
+        "content": "Theo quyết định số 1311/QĐ-VNPT-KHCN&amp;ĐT, năng lực xây dựng mối quan hệ công việc tốt là:",
+        "comment": "Phát triển và sử dụng các mối quan hệ cộng tác để thúc đẩy việc đạt tới mục tiêu."
+    },
+    {
+        "content": "Luôn cố gắng tuân theo logic là một trong những nguyên tắc phải tuân thủ khi sử dụng phương pháp Tập kích não. Đúng hay sai?",
+        "comment": "Sai"
+    },
+
+    {
+        "content": "VNPT đang trong quá trình chuyển đổi từ một công ty viễn thông truyền thống sang một nhà cung cấp dịch vụ số. Song hành với những chuyển đổi về công nghệ, sản phẩm, mô hình tổ chức…, những chuyển đổi về văn hóa - chuyển đổi về khía cạnh con người của doanh nghiệp là hợp phần quan trọng, hỗ trợ cho sự thành công của những chuyển đổi khác. Theo anh chị, nhận định trên đúng hay sai?",
+        "comment": "Đúng"
+    },
+
+    {
+        "content": "Theo Quyết định số 613/QĐ-VNPT-NL, &quot;Theo quy định của pháp luật, nghĩa vụ của Thủ trưởng đơn vị trong công tác ATVSLĐ được quy định, ngoại trừ điều nào?&quot;",
+        "comment": "Khen thưởng người chấp hành tốt và kỹ luật người vi phạm quy định AT,VSLĐ"
+    },
+    {
+        "content": "<p>Theo Quyết định số 613/QĐ-VNPT-NL, Thời hạn tự kiểm tra an toàn, vệ sinh lao động thực hiện theo quy định nào?</p>",
+        "comment": "- 6 tháng /1 lần ở cấp đơn vị;<br />\n- 3 tháng/ lần ở cấp cơ sở trực thuộc đơn vị;<br />\n- 1 tháng /1 lần ở cấp phân xưởng, tổ, đội sản xuất."
+    },
+    {
+        "content": "Theo Quyết định số 1665/QĐ-VNPT-KTPCCTT, Người lao động tự ý bỏ việc mà không có lý do chính đáng dưới 3 ngày cộng dồn trong thời hạn 30 ngày tính từ ngày đầu tiên tự ý bỏ việc, bị xử lý kỷ luật bằng hình thức khiển trách, đúng hay sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Theo Nghị định 135/2020/NĐ-CP, Ông Nguyễn Văn B, sinh ngày 01/7/1962, ông B làm việc trong điều kiện lao động bình thường. Ông Nguyễn Văn B sẽ về hưu vào ngày tháng năm nào?",
+        "comment": "01/5/2023"
+    },
+    {
+        "content": "<p>Theo Luật Bảo hiểm Xã hội 2014, Bà Nguyễn Thị X sinh ngày 15/5/1971. Tính đến tháng 9/2021 bà X có 18 năm 10 tháng đóng bảo hiểm xã hội và có 16 năm làm nghề công việc nặng nhọc, độc hại, nguy hiểm. Bà Nguyễn Thị X được nghỉ hưu vào ngày 01/10/2021 đúng hay sai</p>",
+        "comment": "Sai"
+    },
+    {
+        "content": "<p>Sau khi xử lý khu vực sóng yếu hoặc xử lý chất lượng mạng tại nhà khách hàng. NVKT nên:</p>",
+        "comment": "Thông báo cho khách hàng về tình hình chất lượng dịch vụ sau xử lý; \nHỏi khách hàng xem còn thắc mắc điều gì nữa không; \nGửi lời cảm ơn khách hàng đã tin tưởng và sử dụng dịch vụ của VNPT;\nGiới thiệu đầu số hỗ trợ khách hàng;\nChào tạm biệt khách hàng theo quy chuẩn VNPT."
+    },
+    {
+        "content": "<p>Sau khi thực hiện lắp đặt/sửa chữa dịch vụ tại nhà khách hàng, NVKT KHÔNG nên:</p>",
+        "comment": "Nhờ khách hàng dọn giúp vệ sinh khu vực đã thi công"
+    },
+
+    {
+        "content": "Để tạo thiện cảm với khách hàng, chúng ta nên:",
+        "comment": "Giữ đúng lời hứa với khách hàng"
+    },
+    
+    {
+        "content": "Trong quá trình sáng tạo, chúng ta có thể gặp phải những rào cản như:",
+        "comment": "Rào cản từ bản thân; Rào cản từ bên ngoài"
+    },
+    {
+        "content": "Yếu tố nào sau đây quyết định sự thành công trong quá trình giao tiếp?",
+        "comment": "Thông điệp truyền tải rõ ràng, kỹ năng lắng nghe hiệu quả, sự khéo léo trong xử lý tình huống"
+    },
+
+    {
+        "content": "Hành động tích cực tham gia vào các hoạt động học tập được định nghĩa là:",
+        "comment": "Tham gia vào những hoạt động học tập cần thiết một cách tích cực và hiệu quả nhất"
+    },
+
+    {
+        "content": "Trong Chuẩn mực VNPT, chuẩn mực về &quot;Văn hóa ứng xử&quot; của cấp dưới với cấp trên là:",
+        "comment": "Thẳng thắn, chấp hành"
+    },
+
+    {
+        "content": "<p>Theo Bộ luật Lao động năm 2019, Có mấy loại hợp đồng lao động?</p>",
+        "comment": "Có 02 loại hợp đồng là hợp đồng lao động không xác định thời hạn và hợp đồng lao động xác định thời hạn."
+    },
+    {
+        "content": "Theo Quyết định số 1665/QĐ-VNPT-KTPCCTT , Thời gian người lao động làm việc theo ca được nghỉ trước khi chuyển sang ca làm việc khác",
+        "comment": "Ít nhất 12 giờ."
+    },
+    {
+        "content": "<p>Theo Quyết định số 613/QĐ-VNPT-NL, Thời hạn tự kiểm tra an toàn, vệ sinh lao động thực hiện theo quy định nào?</p>",
+        "comment": "- 6 tháng /1 lần ở cấp đơn vị;<br />\n- 3 tháng/ lần ở cấp cơ sở trực thuộc đơn vị;<br />\n- 1 tháng /1 lần ở cấp phân xưởng, tổ, đội sản xuất."
+    },
+    {
+        "content": "Theo Nghị định số 145/2020/NĐ-CP, Nghị định số 145/2020/NĐ-CP, Người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên người sử dụng lao động có phải chi trả trợ cấp thôi việc không?",
+        "comment": "Không chi trả trợ cấp thôi việc."
+    },
+    {
+        "content": "Theo Văn bản số 3030/VNPT-NL ngày 01/7/2019, Tỷ lệ lao động Chuyên môn nghiệp vụ đối với các Viễn thông tỉnh/ thành phố có từ 150 đến dưới 280 lao động không quá…",
+        "comment": "10%"
+    },
+    {
+        "content": "Lý do khiến thuê bao rời mạng có thể là:",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+    {
+        "content": "NVKT nên ứng xử thế nào khi gặp khách hàng lần đầu?",
+        "comment": "Chủ động cúi chào theo quy chuẩn và hướng ánh mắt về  phía khách hàng với thái độ vui vẻ, nhiệt tình; giới thiệu bản thân để khách hàng yên tâm; xác nhận lại với khách hàng về yêu cầu lắp đặt, sửa chữa ... dịch vụ."
+    },
+        {
+        "content": "Để tìm ý tưởng cho phương pháp mở rộng hay thu nhỏ, nhân viên VNPT nên:",
+        "comment": "Suy nghĩ việc mở rộng hay thu nhỏ sản phẩm, dịch vụ sẵn có"
+    },
+    {
+        "content": "Thường xuyên trao đổi để nhận thông tin phản hồi từ người khác, điều này giúp nhân viên VNPT:",
+        "comment": "Tìm kiếm thêm cơ hội; Phát triển ý tưởng; Thúc đẩy thỏa thuận"
+    },
+    {
+        "content": "Đầu ra của hoạch định chiến lược là:",
+        "comment": "Bản kế hoạch kinh doanh"
+    },
+    {
+        "content": "Đâu là hành động chính trong năng lực học tập ứng dụng ?",
+        "comment": "Tích cực tham gia các hoạt động học tập"
+    },
+
+    {
+        "content": "Theo anh/chị thì đâu là thách thức/mối đe dọa (Threats) của VNPT?",
+        "comment": "Nhiều nhà cung cấp dịch vụ quốc tế đang tìm kiếm cơ hội kinh doanh tại thị trường Việt Nam; hạ tầng băng rộng đang thay thế hạ tầng cáp đồng, thị trường di động Việt Nam chủ yếu vẫn là thị trường trả trước và có tỷ lệ rời mạng cao; việc triển khai dịch vụ chậm có thể làm mất thị trường nhanh chóng"
+    },
+    {
+        "content": "Theo anh chị, những nét văn hóa nào sau đây sẽ hỗ trợ tốt cho việc thực hiện thành công Chiến lược VNPT 4.0?",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+
+    {
+        "content": "Theo QĐ 140/QĐ-VNPT-HĐTV-NL ngày 24/10/2019 của Tập Đoàn, quy định về khung danh mục chức danh tại các Viễn thông tỉnh/thành phố (không bao gồm Hà Nội, TP Hồ Chí Minh) thì Chức danh nào sau đây không thuộc nhân sự quản lý cấp 3?",
+        "comment": "Kế toán trưởng."
+    },
+
+    {
+        "content": "Theo Nghị định số 145/2020/NĐ-CP, Nghị định số 145/2020/NĐ-CP, ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về nội dung nào?",
+        "comment": "Điều kiện lao động và quan hệ lao động."
+    },
+
+    {
+        "content": "Khi chăm sóc khách hàng, nếu gặp trường hợp khách hàng trước đây đã từng dùng mạng của VNPT phản ánh &quot;Mạng bị chậm, hay bị quay,..&quot;, vì vậy khách hàng đã chuyển sang dùng của nhà mạng khác, NVKT nên xử lý:",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+    {
+        "content": "Khi giao tiếp với khách hàng, chúng ta luôn mong muốn nhận được thông tin phản hồi từ khách hàng. Đúng hay Sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Quy định đối với NVKT về việc cung cấp thông tin cho khách hàng:",
+        "comment": "Cung cấp thông tin cho khách hàng đầy đủ, trung thực, theo phạm vi công việc được giao và chịu trách nhiệm về tính chính xác của thông tin"
+    },
+    
+    {
+        "content": "Khi gặp những thay đổi lớn trong nhiệm vụ hoặc môi trường làm việc, nhân viên VNPT nên:",
+        "comment": "Thích ứng, duy trì được hiệu quả làm việc"
+    },
+    {
+        "content": "Khung năng lực cốt lõi được xây dựng nhằm mục đích:",
+        "comment": "Làm thước đo xác định mục tiêu học tập đồng thời nâng cao năng lực cán bộ nhân viên trong Tập đoàn"
+    },
+    {
+        "content": "Lợi ích của làm việc nhóm là",
+        "comment": "Tất cả đều đúng"
+    },
+    {
+        "content": "Trong Chuẩn mực VNPT, theo anh chị thái độ nào của cá nhân được khuyến khích thế nào?",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+    {
+        "content": "Theo Thông tư 25/2013/TT-BLĐTBX, Bồi dưỡng bằng hiện vật cho người lao động làm việc trong điều kiện có yếu tố nguy hiểm độc hại có thể được trả bằng tiền hoặc được trả vào lương thay cho hiện vật bồi dưỡng, đúng hay sai?",
+        "comment": "Sai"
+    },
+    {
+        "content": "Theo Bộ luật Lao động 2019, đâu không phải là quyền của người lao động?",
+        "comment": "Thành lập, gia nhập, hoạt động trong tổ chức đại diện người sử dụng lao động , tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật."
+    },
+    {
+        "content": "Theo Kỷ luật Lao động - CV 7028/VNPT-PCTT, Giám đốc Viễn thông tỉnh/thành phố có quyền quyết định kỷ luật Lao động đối với tất cả Người lao động do đơn vị mình Quản lý bị vi phạm Nội quy lao động với các hình thức nào?",
+        "comment": "Tất cả đáp án đều đúng."
+    },
+    {
+        "content": "<p>Lắng nghe tích cực KHÔNG có đặc điểm nào, sau đây:</p>",
+        "comment": "Khi khách hàng đang trình bày, nếu có điều gì khách hàng nói chưa đúng thì nên ngắt lời để giải thích ngay, tránh để khách hàng  hiểu lầm"
+    },
+    
+    {
+        "content": "Phương pháp sáu chiếc mũ tư duy giúp đánh giá sự việc từ nhiều góc nhìn khác nhau, qua đó:",
+        "comment": "Có thể hiểu rõ hơn mọi ngóc ngách của sự việc, nhận diện được những nguy cơ và cơ hội mà bình thường ta có thể không chú ý đến"
+    },
+    {
+        "content": "Việc học tập không ngừng sẽ giúp người học",
+        "comment": "Tất cả đáp án đều đúng"
+    },
+    {
+        "content": "Theo sổ tay Văn hóa VNPT, Sức mạnh thương hiệu &quot;VNPT- Cuộc sống đích thực&quot; phải được tạo ra từ các giá trị đích thực bên trong VNPT với:",
+        "comment": "Con người đích thực, Môi trường đích thực, Sản phẩm đích thực."
+    },
+    {
+        "content": "Với chiến lược phát triển trong kỷ nguyên mới, phù hợp với xu thế toàn cầu hóa và sự phát triển không ngừng của cuộc cách mạng công nghiệp 4.0, VNPT đã và đang từng bước chuyển đổi từ nhà cung cấp dịch vụ viễn thông truyền thống sang nhà cung cấp dịch vụ số (DSP), trở thành một Tập đoàn kinh tế năng động, chú trọng phát triển những sản phẩm, dịch vụ, giải pháp ICT sáng tạo.Tầm nhìn VNPT đang hướng tới là:",
+        "comment": "Trở thành nhà cung cấp dịch vụ số hàng đầu Việt Nam vào năm 2025; Trở thành Trung tâm số (Digital Hub) của châu Á vào năm 2030; Trở thành lựa chọn số 1 của khách hàng sử dụng sản phẩm, dịch vụ Công nghệ thông tin - Viễn thông (ICT) tại thị trường."
+    },
+    {
+        "content": "Theo Sổ tay Văn hóa VNPT, Trách nhiệm của VNPT với người lao động là &quot;Tôn trọng và Bảo vệ&quot; được hiểu như thế nào?",
+        "comment": "VNPT xác định đội ngũ lao động là tài sản quý giá nhất của VNPT, là những người làm nên lịch sử truyền thống hào hùng, cũng như đang tạo dựng những bậc thang cho tương lai, do vậy mọi chủ trương, ý tưởng, cơ chế, chính sách hay giải pháp triển khai cũng đều hướng về người lao động."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động trong trường hợp nào sau đây:",
+        "comment": "Đáp án 2 và 3."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Người lao động hợp đồng không xác định thời hạn khi đơn phương chấm dứt hợp đồng phải báo trước cho người sử dụng lao động ít nhất bao nhiêu ngày làm việc?",
+        "comment": "45 ngày."
+    },
+    {
+        "content": "Khi trao đổi, giải thích với khách hàng qua điện thoại, NVKT KHÔNG nên:",
+        "comment": "Sử dụng các thuật ngữ chuyên ngành"
+    },
+    {
+        "content": "<p>Lắng nghe tích cực KHÔNG có đặc điểm nào, sau đây:</p>",
+        "comment": "Khi khách hàng đang trình bày, nếu có điều gì khách hàng nói chưa đúng thì nên ngắt lời để giải thích ngay, tránh để khách hàng  hiểu lầm"
+    },
+    {
+        "content": "<p>Các lỗi thường mắc phải trong bán hàng</p>",
+        "comment": "Tất cả đều đúng"
+    },
+    {
+        "content": "<p>Sau khi xử lý khu vực sóng yếu hoặc xử lý chất lượng mạng tại nhà khách hàng. NVKT nên:</p>",
+        "comment": "Thông báo cho khách hàng về tình hình chất lượng dịch vụ sau xử lý; \nHỏi khách hàng xem còn thắc mắc điều gì nữa không; \nGửi lời cảm ơn khách hàng đã tin tưởng và sử dụng dịch vụ của VNPT;\nGiới thiệu đầu số hỗ trợ khách hàng;\nChào tạm biệt khách hàng theo quy chuẩn VNPT."
+    },
+    {
+        "content": "Theo Văn bản 3536/VNPT-TCNL, Kể từ ngày 28/6/2021, Tập đoàn Bưu chính Viễn thông Việt Nam hỗ trợ cho người lao động thôi việc theo phương án sắp xếp lao động từ năm 2021 bao nhiêu cho mỗi năm làm việc thực tế cho Người sử dụng lao động (VNPT)?",
+        "comment": "2,2 triệu đồng."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân bao nhiêu tháng?",
+        "comment": "06 tháng."
+    },
+    {
+        "content": "Theo Nội quy lao động Tập đoàn VNPT, người sử dụng lao động được sử dụng người lao động làm thêm giờ trong trường hợp nào?",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+    {
+        "content": "Lợi ích của năng lực thích ứng đối với Cá nhân đó là:",
+        "comment": "Tất cả các đáp án đều đúng"
+    },
+    {
+        "content": "Một nhóm làm việc hiệu quả khi các thành viên trong nhóm:",
+        "comment": "Hoàn thành các mục tiêu của nhóm một cách hoàn hảo"
+    },
+    {
+        "content": "Trong sổ tay văn hóa VNPT, anh chị hiểu trách nhiệm của người VNPT với &quot;Môi trường&quot; là:",
+        "comment": "Vì một hành tinh xanh _ Cam kết xây dựng cơ quan Xanh - Sạch - Đẹp, bảo đảm an toàn, PCCN, ứng dụng công nghệ tiên tiến thân thiện và bảo vệ môi trường."
+    },
+    {
+        "content": "Việc xác định mục tiêu kế hoạch giúp doanh nghiệp:",
+        "comment": "Xác định những việc cần đạt được"
+    },
+    {
+        "content": "Hành động có thái độ tích cực đối với thay đổi hoặc cái mới là:",
+        "comment": "Coi thay đổi và những tình huống mới là cơ hội để học tập và phát triển; tập trung vào phương diện lợi ích của thay đổi; Nói tốt về thay đổi với những người khác"
+    },
+    {
+        "content": "Theo CV số 2173/VNPT-TCNL, Nhiệm vụ nào sau đây KHÔNG PHẢI của Chuyên viên Kế toán – Vị trí Kế toán tổng hợp?",
+        "comment": "Kiểm tra, kiểm soát chặt chẽ thu, chi, hồ sơ chứng từ thanh toán."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Người lao động hợp đồng xác định thời hạn có thời hạn dưới dưới 12 tháng khi đơn phương chấm dứt hợp đồng phải báo trước cho người sử dụng lao động ít nhất bao nhiêu ngày làm việc?",
+        "comment": "03 ngày."
+    },
+    {
+        "content": "<p>Khi lắp đặt, xử lý sự cố dịch vụ cho khách hàng xong, nội dung nào NVKT không nên khuyến nghị khách hàng:</p>",
+        "comment": "Chủ động mua và lắp thêm repeater nếu muốn mở rộng thêm vùng phủ sóng"
+    },
+    {
+        "content": "<p>Khi tiếp cận khách hàng để tư vấn dịch vụ, nếu khách hàng đang bận việc, NVKT nên:</p>",
+        "comment": "Tạm biệt khách hàng và gợi ý khách hàng xin một cuộc hẹn khác"
+    },
+    {
+        "content": "Làm việc nhóm mang lại những kết quả tốt mà từng cá nhân không thể làm được, hoặc làm được mà không hiệu quả. Nhận định trên đúng hay sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Thời gian thử việc đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ là bao nhiêu ngày?",
+        "comment": "Không quá 30 ngày."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Người lao động tự ý bỏ việc bao nhiêu ngày cộng dồn trong thời hạn 30 ngày sẽ bị kỷ luật sa thải?",
+        "comment": "05 ngày"
+    },
+    {
+        "content": "Theo Thỏa ước lao động tập  Tập đoàn VNPT, , đối tượng người lao động nào được điều dưỡng phục hồi sức khỏe:",
+        "comment": "Người lao động có sức khỏe loại 4, loại 5 và người lao động làm công việc đặc biệt năng nhọc, độc hại, nguy hiểm."
+    },
+    {
+        "content": "Theo Văn bản số  6820/VNPT-TCNL-TL, Lao động nào sau đây KHÔNG thuộc nhóm lao động trực tiếp sản xuất.",
+        "comment": "Lao động thừa hành phục vụ."
+    },
+    {
+        "content": "Theo Bộ luật Lao động 2019, Trong những trường họp nào, người sử dụng lao động được quyền điều chuyển người lao động làm công việc khác so với hợp đồng lao động?",
+        "comment": "Tất cả đáp án đều đúng."
+    },
+    {
+        "content": "Sau khi lắp đặt dịch vụ Internet tại nhà khách hàng, một trong những vấn đề mà NVKT cần lưu ý khách hàng là:",
+        "comment": "Số lượng thiết bị tối đa truy cập cùng lúc trên đường truyền"
+    },
+    {
+        "content": "Tại sao đưa ra ý kiến phản hồi trong giao tiếp lại quan trọng?",
+        "comment": "Đó là quá trình giúp người nói kiểm chứng xem thông điệp truyền đi tới từ người nghe như thế nào"
+    },
+    {
+        "content": "Sự tham gia của nhân viên vào sự thay đổi là cần thiết bởi vì",
+        "comment": "Giúp kiểm soát quá trình thay đổi"
+    },
+    {
+        "content": "Trong Chuẩn mực VNPT, chuẩn mực về &quot;Văn hóa ứng xử&quot; trong đơn vị đó là:",
+        "comment": "Với đồng nghiệp: Hợp tác – Cởi mở\nVới cấp dưới: Lắng nghe – Chân thành\nVới cấp trên: Thẳng thắn – Chấp hành\nVới bản thân: Vượt qua chính mình"
+    },
+    {
+        "content": "Theo Văn bản số  6820/VNPT-TCNL-TL, Lao động nào sau đây KHÔNG thuộc nhóm lao động trực tiếp sản xuất",
+        "comment": "  Không có đáp án đúng."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2019, Công ty trách nhiệm hữu hạn X ký hợp đồng lao động không xác định thời hạn với anh B. Anh B bị chấn thương do tai nạn giao thông, đã nằm bệnh viện điều trị hơn 1 năm vẫn chưa bình phục nên Công ty X quyết định chấm dứt hợp đồng lao động với anh B. Công ty đơn phương chấm dứt hợp đồng lao động đối với anh B là đúng hay sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Theo Văn bản số  6820/VNPT-TCNL-TL,VLao động nào sau đây KHÔNG thuộc 4 nhóm phân loại lao động của VNPT:",
+        "comment": "Lao động gián tiếp."
+    },
+    {
+        "content": "Theo Bộ luật Lao động năm 2009, Người lao động KHÔNG có quyền nào dưới đây:",
+        "comment": "Yêu cầu tổ chức đại diện người lao động thương lượng với mục đích ký kết thỏa ước lao động tập thể; tham gia giải quyết tranh chấp lao động, đình công; ..."
+    },
+    {
+        "content": "Việc bảo mật thông tin khách hàng được VNPT quy định thế nào?",
+        "comment": "Không được sử dụng, tiết lộ bất cứ thông tin nào của khách hàng vào mục đích riêng."
+    },
+    {
+        "content": "Khi tiếp xúc với khách hàng, lý do nào là quan trọng nhất khiến chúng ta nên gọi đúng tên khách hàng?",
+        "comment": "Để thể hiện sự tôn trọng và tạo thiện cảm với khách hàng"
+    },
+    {
+        "content": "&quot;Mỗi cá nhân cần phải điều chỉnh có hiệu quả để làm việc trong những cấu trúc, quy trình, yêu cầu hay văn hóa làm việc mới&quot; Đây là yêu cầu của năng lực thích ứng đúng hay sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Một trong những đặc điểm của bản kế hoạch tác nghiệp là:",
+        "comment": "Thời hạn ngắn, 1 năm trở xuống"
+    },
+    {
+        "content": "Sức mạnh của VNPT nằm ở những khía cạnh nào sau đây?",
+        "comment": "Sức mạnh truyền thống, Sức mạnh thương hiệu, Sức mạnh gắn kết, Sức mạnh phát triển, Sức mạnh kỷ cương"
+    },
+    {
+        "content": "Trong Chuẩn mực VNPT, chuẩn mực về &quot;Văn hóa ứng xử&quot; trong đơn vị đó là:",
+        "comment": "Với đồng nghiệp: Hợp tác – Cởi mở\nVới cấp dưới: Lắng nghe – Chân thành\nVới cấp trên: Thẳng thắn – Chấp hành\nVới bản thân: Vượt qua chính mình"
+    },
+    {
+        "content": "Theo Nghị định 135/2020/NĐ-CP, Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ bao nhiêu tuổi đối với lao động nam vào năm 2028?",
+        "comment": "62 tuổi."
+    },
+    {
+        "content": "Theo Nghị định số 135/2020/NĐ-CP, Thời điểm hưởng chế độ hưu trí là bắt đầu ngày đầu tiên của tháng liền kề sau thời điểm nghỉ hưu. Đúng hay sai?",
+        "comment": "Đúng"
+    },
+    {
+        "content": "Phương thức &quot;Giao tiếp phi ngôn ngữ&quot; đối với Doanh nghiệp được thể hiện qua:",
+        "comment": "Thương hiệu; Logo; Đồng phục, cách trang trí cửa hàng"
+    },
+    {
+        "content": "<p>NVKT nên tìm hiểu những thông tin gì về sản phẩm của đối thủ cạnh tranh?</p>",
+        "comment": "Điểm mạnh - điểm yếu của sản phẩm tương đồng với VNPT"
+    },
+    {
+        "content": "Bước cuối cùng để giải quyết xung đột trong nhóm bao gồm",
+        "comment": "Thỏa thuận"
+    },
+    {
+        "content": "Theo sổ tay văn hóa VNPT quy định &quot;Trách nhiệm của VNPT&quot; bao gồm:",
+        "comment": "Với nhà nước: Thực thi pháp luật\nVới khách hàng: Luôn làm hài lòng\nVới đối tác: Hợp tác cùng phát triển\nVới cộng đồng xã hội: Cùng chung vai góp sức\nVới người lao động: Tôn trọng và bảo vệ\nVới môi trường: Vì một hành tinh xanh"
+    },
+    {
+        "content": "Theo Quyết định số 1665/QĐ-VNPT-KTPCCTT , Trường hợp nào sau đây quy định không được bố trí lao động nữ làm việc ban đêm, làm thêm giờ:",
+        "comment": "Lao động nữ mang thai từ tháng thứ 7 và đang nuôi con dưới 12 tháng tuổi."
+    },
+    {
+        "content": "Theo Thông tư 25/2013/TT-BLĐTBXH ngày 18/10/2013 quy định mức bồi dưỡng bằng hiện vật cho người lao động làm việc trong điều kiện có yếu tố nguy hiểm độc hại là:",
+        "comment": "Thực hiện theo 4 mức:              – Mức 1: 10.000 đồng;<br />\n– Mức 2: 15.000 đồng;<br />\n– Mức 3: 20.000 đồng;<br />\n– Mức 4: 25.000 đồng."
+    },
+    {
+        "content": "Đâu là những nhược điểm của phương pháp &quot;thử và sai&quot;?",
+        "comment": "Tất cả đều đúng"
+    },
+    {
+        "content": "Theo Quyết định số 613/QĐ-VNPT-NL: &quot;Theo quy định của pháp luật, quyền hạn của Thủ trưởng đơn vị trong công tác ATVSLĐ được quy định&quot;, ngoại trừ:",
+        "comment": "Cử người giám sát việc thực hiện các quy định, nội quy, biện pháp an toàn lao động, vệ sinh lao động trong đơn vị"
+    },
+    {
+        "content": "Khi tổ chức có những thay đổi về văn hóa doanh nghiệp, khoa học công nghệ, đòi hỏi mỗi cá nhân phải…",
+        "comment": "Thích ứng"
+    },
+    {
+        "content": "Sức mạnh gắn kết của VNPT - Một mái nhà chung được thể hiện ở những yếu tố nào sau đây?",
+        "comment": "Hạ tầng chung, Sản phẩm chung, Thương hiệu chung, Lợi ích chung"
+    },
+    {
+        "content": "<p>Quy chế quản trị nhân sự quản lý ban hành hành kèm theo quyết định số 202/QĐ-VNPT-HĐTH-NL ngày 06/11/2028 của Tập đoàn VNPT quy định Điều động nhân sự quản lý là:</p>",
+        "comment": "Việc cấp có thẩm quyền quyết định để nhân sự đang đảm nhiệm một chức vụ quản lý đơn vị này đến giữ chức vụ quản lý đơn vị khác thuộc Tập đoàn hoặc đơn vị có vốn góp của Tập đoàn để phù hợp với năng lực, chuyên môn của cá nhân, theo yêu cầu công tác của Tập đoàn, của đơn vị."
+    },
+    {
+        "content": "Theo Thông tư 25/2013/TT-BLĐTBXH,  quy định nguyên tắc bồi dưỡng hiện vật cho người lao động. Ngoại trừ:",
+        "comment": "Trực tiếp làm hoạt động lưu trữ tại kho, phòng kho lưu trữ, xưởng kỹ thuật bảo quản, văn phòng."
+    },
+    {
+        "content": "<p>Lắng nghe tích cực KHÔNG có đặc điểm nào, sau đây:</p>",
+        "comment": "Khi khách hàng đang trình bày, nếu có điều gì khách hàng nói chưa đúng thì nên ngắt lời để giải thích ngay, tránh để khách hàng  hiểu lầm"
+    },
+    {
+        "content": "<p>Khi giao tiếp với khách hàng, để việc lắng nghe hiệu quả NVKT nên:</p>",
+        "comment": "Kiểm soát cảm xúc của bản thân"
+    },
+    {
+        "content": "Theo quyết định số 1311/QĐ-VNPT-KHCN&amp;ĐT, ngày 21/10/2013 Năng lực sáng tạo được định nghĩa:",
+        "comment": "Là khả năng hiện có của cá nhân trong việc tạo ra cái mới có giá trị dựa trên tổ hợp các thuộc tính độc đáo của cá nhân đó phù hợp với yêu cầu của hoạt động sáng tạo sản phẩm trong một lĩnh vực hoạt động nhất định."
+    },
+    {
+        "content": "Trong quy trình xây dựng kế hoạch, ở mỗi phương án thực hiện mục tiêu, doanh nghiệp cần cụ thể hóa về:",
+        "comment": "Giải pháp và công cụ thực hiện"
+    },
+    {
+        "content": "Theo sổ tay văn hóa VNPT quy định &quot;Trách nhiệm của VNPT&quot; bao gồm:",
+        "comment": "Với nhà nước: Thực thi pháp luật\nVới khách hàng: Luôn làm hài lòng\nVới đối tác: Hợp tác cùng phát triển\nVới cộng đồng xã hội: Cùng chung vai góp sức\nVới người lao động: Tôn trọng và bảo vệ\nVới môi trường: Vì một hành tinh xanh"
+    },
+    {
+        "content": "<p>Theo Thỏa ước lao động tập Tập đoàn VNPT, Ý nào sau đây quy định về khám sức khỏe hằng năm cho người lao động:</p>",
+        "comment": "Người sử dụng lao động tổ chức khám sức khỏe cho người lao động 1 năm 1 lần và người làm công việc nặng nhọc, độc hại, nguy hiểm ít nhất 6 tháng 1 lần."
+    },
+    {
+        "content": "Nội quy Lao động Tập đoàn VNPT quy định đối tượng người lao động được thanh toán tiền lương nghỉ phép hằng năm là:",
+        "comment": "Người lao động nghỉ thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm."
+    }
+]
